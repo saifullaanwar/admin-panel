@@ -23,16 +23,19 @@ Berikut adalah struktur tabel yang digunakan dalam aplikasi ini (dirancang mengg
 
 ### 1. Halaman Login
 Halaman awal untuk autentikasi admin sebelum masuk ke panel kontrol.
+
 ![Halaman Login](./screenshots/screenshot-login.png)
 
 
 ### 2. Dashboard Admin (Manajemen Data)
 Tampilan utama yang menampilkan list kategori, list produk dengan format rupiah, dan fitur pencarian.
+
 ![Admin Panel Dashboard](./screenshots/screenshot-dashboard.png)
 
 
 ### 3. Struktur & Data Database (PostgreSQL)
 Tampilan data yang tersimpan di dalam tabel PostgreSQL (melalui GUI Database Manager).
+
 ![Screenshot Database](./screenshots/screenshot-database.png)
 
 ---
