@@ -14,7 +14,7 @@ Project ini adalah aplikasi Admin Panel sederhana untuk manajemen data kategori 
 ## 📊 Desain Database (ERD)
 Berikut adalah struktur tabel yang digunakan dalam aplikasi ini (dirancang menggunakan dbdiagram.io):
 
-![Desain Database](./desain-database.png)
+![Desain Database](./screenshots/desain-database.png)
 > *Catatan: Relasi antara Tabel Kategori dan Tabel Produk adalah One-to-Many.*
 
 ---
